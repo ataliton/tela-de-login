@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    
+
+}
+body{
+    background-color: black;
+}
+form{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.login{
+    background-color: #FF5722;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+
+
+}
